@@ -1,0 +1,21 @@
+
+
+MAIL DATE : 10/10/2020
+MAIL FROM : 
+MAIL TO : Makis
+MAIL SUBJECT : Greeting
+MAIL BODY : jksdfhasdfjflahsjklahjklfhasjklfhasjidfh789345yjsaf
+
+
+MAIL DATE : 20/10/20
+MAIL FROM : 
+MAIL TO : Test
+MAIL SUBJECT : Greedings
+MAIL BODY : Hello
+
+
+MAIL DATE : 20/20/20
+MAIL FROM : 
+MAIL TO : Test
+MAIL SUBJECT : Greed
+MAIL BODY : sdfgjsdjasfjafs
